@@ -1,0 +1,5 @@
+password = raw_input("Please input password: ")
+print("Your password is:%s"%password)
+print(type(password))
+password = int(password)
+print(type(password))
